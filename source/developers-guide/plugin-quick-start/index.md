@@ -186,7 +186,7 @@ Provide meta information about your plugin with the `plugin.xml` file. Read the 
 
 ## Plugin Icon
 
-To make it easier to identify you plugin in the plugin manager module in the backend, you should provide a `plugin.png` file in your plugin root directory.
+To make it easier to identify your plugin in the plugin manager module in the backend, you should provide a `plugin.png` file in your plugin root directory.
 This small icon must have a size of 16x16px.
 
 ## The plugin base file
